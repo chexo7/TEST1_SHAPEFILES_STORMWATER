@@ -1,0 +1,40 @@
+{
+  "Residential": {
+    "1/8 acre lots (townhouses)": { "A": 77, "B": 85, "C": 90, "D": 92 },
+    "1/4 acre lots": { "A": 61, "B": 75, "C": 83, "D": 87 },
+    "1/3 acre lots": { "A": 57, "B": 72, "C": 81, "D": 86 },
+    "1/2 acre lots": { "A": 54, "B": 70, "C": 80, "D": 85 },
+    "1 acre lots": { "A": 51, "B": 68, "C": 79, "D": 84 }
+  },
+  "Commercial and Business": {
+    "Industrial (72% impervious)": { "A": 81, "B": 88, "C": 91, "D": 93 },
+    "Office/Retail (85% impervious)": { "A": 89, "B": 92, "C": 94, "D": 95 },
+    "Paved parking lots, roofs, driveways": { "A": 98, "B": 98, "C": 98, "D": 98 }
+  },
+  "Open Space, Lawns, Parks, Golf Courses": {
+    "Good condition (>75% grass cover)": { "A": 39, "B": 61, "C": 74, "D": 80 },
+    "Fair condition (50-75% grass cover)": { "A": 49, "B": 69, "C": 79, "D": 84 },
+    "Poor condition (<50% grass cover)": { "A": 68, "B": 79, "C": 86, "D": 89 }
+  },
+  "Cultivated Agricultural Land": {
+    "Straight row (Poor Hydrologic Condition)": { "A": 72, "B": 81, "C": 88, "D": 91 },
+    "Straight row (Good Hydrologic Condition)": { "A": 67, "B": 78, "C": 85, "D": 89 },
+    "Contoured (Poor Hydrologic Condition)": { "A": 70, "B": 79, "C": 84, "D": 88 },
+    "Contoured (Good Hydrologic Condition)": { "A": 65, "B": 75, "C": 82, "D": 86 },
+    "Contoured & Terraced (Poor Hydrologic Condition)": { "A": 66, "B": 74, "C": 80, "D": 82 },
+    "Contoured & Terraced (Good Hydrologic Condition)": { "A": 62, "B": 71, "C": 78, "D": 81 }
+  },
+  "Pasture/Range Land": {
+    "Poor condition": { "A": 68, "B": 79, "C": 86, "D": 89 },
+    "Fair condition": { "A": 49, "B": 69, "C": 79, "D": 84 },
+    "Good condition": { "A": 39, "B": 61, "C": 74, "D": 80 }
+  },
+  "Woods/Forest Land": {
+    "Thin stand, poor cover, no mulch": { "A": 45, "B": 66, "C": 77, "D": 83 },
+    "Good stand, good cover": { "A": 30, "B": 55, "C": 70, "D": 77 }
+  },
+  "Undeveloped/Natural Areas": {
+    "Desert landscapes (arid/semi-arid)": { "A": 63, "B": 77, "C": 85, "D": 88 },
+    "Bare ground": { "A": 77, "B": 86, "C": 91, "D": 94 }
+  }
+}
